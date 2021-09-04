@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Darwin Espinosa	darwinjoel13@gmail.com	@Hi
 
 # THANKS
 
